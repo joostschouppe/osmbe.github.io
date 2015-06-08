@@ -8,7 +8,7 @@ OpenStreetMap (OSM) is a collaborative project to create a free editable map of 
 
 # What's this community about?
 
-Our community is about collecting data and contributing it to OpenStreetMap. Most of us are called 'mappers'. With OpenStreetMap, mapping isn't just for professionals anymore, everybody can join us! If you're intrested have a look at our [community]({{ site.url }}/community) page.
+Our community is about collecting data and contributing it to OpenStreetMap. Most of us are called 'mappers'. With OpenStreetMap, mapping isn't just for professionals anymore, everybody can join us! 
 
 # Why build your own maps?
 
