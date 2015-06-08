@@ -1,20 +1,20 @@
 ---
 layout: en-page
-title: OpenStreetMap - The free editable map of the whole world!
-excerpt: "OpenStreetMap - The free editable map of the whole world!"
+title: OpenStreetMap - The free editable map of the world!
+excerpt: "OpenStreetMap - The free editable map of the world!"
 search_omit: true
 ---
 OpenStreetMap (OSM) is a collaborative project to create a free editable map of the entire world. Our community in Belgium is part of the more than 2 million registered users worldwide.
 
 # What's this community about?
 
-Our community is about collecting data and contributing it to OpenStreetMap. Most of us are called 'mappers'. With OpenStreetMap, mapping isn't just for professionals anymore, everybody can join us! If you're intrested have a look at our community page.
+Our community is about collecting data and contributing it to OpenStreetMap. Most of us are called 'mappers'. With OpenStreetMap, mapping isn't just for professionals anymore, everybody can join us! 
 
 # Why build your own maps?
 
 **Community**
 
-Good maps aren't always available. Even big companies like Google get things wrong sometimes. [Compare](http://tools.geofabrik.de/mc/#15/51.0894/4.3809&num=2&mt0=mapnik&mt1=google-map) with an encyclopedia that just a few can edit and wikipedia, that has an whole community contributing articles! OpenStreetMap works in much the same way.
+Good maps aren't always available. Even big companies like Google get things wrong sometimes. [Compare](http://tools.geofabrik.de/mc/#15/51.0894/4.3809&num=2&mt0=mapnik&mt1=google-map) with an encyclopedia that just a few can edit and wikipedia, that has a huge community contributing articles! OpenStreetMap works in much the same way.
 
 **What to map?**
 
