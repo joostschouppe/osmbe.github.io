@@ -15,6 +15,10 @@ date: 2014-11-08T18:53:55-04:00
 
 **How and when did you discover OpenStreetMap?**
 
+- jklsdfg
+- sdfgjlksdfg
+- jlksdfgjlk
+
 Suddenly OpenStreetMap was one of the projects that got additional attention from the open source community, which I already followed because of my involvement in DejaVu Fonts. I started to map in 2007, when there was almost nothing mapped in Belgium and the OpenStreetMap community was only a handful of people. As a little boy I was already interested in all kinds of maps. I could spend hours looking at atlases and printed maps. I even drew imaginary street maps myself. OpenStreetMap must have stirred up my interest in maps again!
 
 **How do you use OpenStreetMap?**
